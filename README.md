@@ -46,3 +46,4 @@ python manage.py runserver
 
 - Dynamic allocation of timers for each junction based on vehicle density.
 - Vehicle detection using the YOLOv4 algorithm.
+- Pictorial representation of the junction with timers.
